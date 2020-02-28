@@ -1,0 +1,1 @@
+obj_ship_1.wpn_knockback = false;
