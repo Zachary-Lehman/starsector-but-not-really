@@ -1,6 +1,6 @@
-manuv = .5;
+manuv = .75;
 accl = manuv/10;
-max_spd = 2.2;
+max_spd = 3.3;
 slow_down = false;
 wpn_knockback = false;
 player_health = 100;
